@@ -1,3 +1,5 @@
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?niyamono=Foo_name&show_icons=true&theme=vue-dark)
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=niyamono&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/niyamono/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyamono&layout=compact&theme=tokyonight)](https://github.com/niyamono/)
